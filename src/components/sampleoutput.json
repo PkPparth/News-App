@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 6328,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "nypost.com",
+      "title": "Tesla renews legal fight to reinstate Elon Musk's $56B pay package after shareholders back deal",
+      "description": "In January, Delaware Chancery Court Judge Kathaleen McCormick voided Musk’s stock-based compensation plan, which she referred to as an “unfathomable sum.” The package was challenged in a lawsuit filed by Tesla shareholder Richard Tornetta.\nTesla’s lawyers arg…",
+      "url": "https://biztoc.com/x/92f51c02863e6e27",
+      "urlToImage": "https://biztoc.com/cdn/92f51c02863e6e27_s.webp",
+      "publishedAt": "2024-06-18T04:49:06Z",
+      "content": "In January, Delaware Chancery Court Judge Kathaleen McCormick voided Musks stock-based compensation plan, which she referred to as an unfathomable sum. The package was challenged in a lawsuit filed b… [+131 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Star Online"
+      },
+      "author": "Daniella Segura",
+      "title": "Self-driving Tesla crashes into police car as driver uses phone, California cops say",
+      "description": "A Tesla in self-drive mode crashed into a cop car as its driver used their cellphone, California police say. Read full story",
+      "url": "https://www.thestar.com.my/tech/tech-news/2024/06/18/self-driving-tesla-crashes-into-police-car-as-driver-uses-phone-california-cops-say",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/06/18/2754392.JPG",
+      "publishedAt": "2024-06-18T04:30:00Z",
+      "content": "A Tesla in self-drive mode crashed into a cop car as its driver used their cellphone, California police say.\r\nFullerton police said one of its officers was directing traffic shortly after midnight on… [+1351 chars]"
+    }
+  ]
+}
