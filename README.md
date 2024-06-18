@@ -1,5 +1,5 @@
-Use Case :
+Use Case
 ---> Fetch the Latest news from the newsapi.org
 
-Tech Used :
+Tech Used
 ---> Build using React , bootstrap
