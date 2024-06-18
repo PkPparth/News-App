@@ -1,2 +1,5 @@
---> Fetch the Latest news from the newsapi.org
---> Tech : Build using React , bootstrap , NewsApi 
+Use Case :
+---> Fetch the Latest news from the newsapi.org
+
+Tech Used :
+---> Build using React , bootstrap , NewsApi 
